@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feeddelay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-06 13:56+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: feeddelay.php:79
+msgid "Settings saved!"
+msgstr "Die Einstellungen wurden gespeichert!"
+
+#: feeddelay.php:94
+msgid "minute(s)"
+msgstr "Minute(n)"
+
+#: feeddelay.php:95
+msgid "Feed enabled?"
+msgstr "Feed ist aktiv?"
+
+#: feeddelay.php:97
+msgid "yes"
+msgstr "Ja"
+
+#: feeddelay.php:99
+msgid "no"
+msgstr "Nein"
+
+#: feeddelay.php:118
+#, php-format
+msgid "This feed is not available. Please visit the <a href=\"%s\">homepage</a>!"
+msgstr "Dieser Feed ist nicht aktiv! Weiter zur <a href=\"\"%s\">Homepage</a>!"
+
